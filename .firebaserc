@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "maikoldev"
+  },
+  "targets": {
+    "maikoldev": {
+      "hosting": {
+        "spotify-top-list": [
+          "spotify-top-list"
+        ]
+      }
+    }
+  }
+}
